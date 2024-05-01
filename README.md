@@ -1,6 +1,4 @@
-[![SpendSync](https://github.com/Devansh-Baghel/SpendSync/assets/77718741/f8f5f3a3-ff72-4192-901d-c613419ee1c5)](https://spendsync.baghel.dev/)
-# SpendSync 💸✨
-[Live Demo](https://spendsync.baghel.dev/)
+
 
 SpendSync is an all in one financial planning and money tracking tool with a sleek and intuitive user interface.
 
